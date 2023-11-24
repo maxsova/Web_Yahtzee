@@ -12,3 +12,4 @@ This game of Yahtzee is a year 2 University project in Web Development. It cover
 10 Create an animated and adaptive UI;
 11 Find elements by using CSS selectors and jQuery;
 12 Structure a CSS file by using CSS selectors.
+The game was created in Visual Studio
